@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Marcello Pires 👋
 
-<!--
-**marcellopires/marcellopires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Analyst | Blue Team (SOC)
+🛡️ Focused on Threat Detection, Incident Response & Security Monitoring
+☁️ Learning Cloud Security (AWS & Azure)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Degree in Cyber Defense
+* 💼 IT Field Technician with hands-on experience in infrastructure and support
+* 🔍 Strong interest in Digital Forensics & Ethical Hacking
+* 🌍 Open to remote international opportunities
+
+---
+
+## 🧠 Skills
+
+* 🖥️ Linux (intermediate)
+* 🌐 Networking (TCP/IP, DNS, troubleshooting)
+* 🔐 Cybersecurity fundamentals
+* 📊 Log analysis & monitoring
+* ⚙️ SIEM (Wazuh, Splunk - learning)
+* 🐍 Python (basic)
+
+---
+
+## 🧪 Projects
+
+🚧 Currently building practical labs and real-world simulations:
+
+* 🔥 SOC Lab with Wazuh (threat detection & monitoring)
+* 🔍 Log Analysis & Incident Response
+* 💣 Attack simulation using Kali Linux
+
+---
+
+## 📚 Certifications (In Progress)
+
+* CompTIA Security+
+* Microsoft Azure (AZ-900)
+
+---
+
+## 🌐 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/miguelmarcello/
+
+---
+
+## ⚡ Career Goal
+
+Become a Cybersecurity Specialist and work remotely for international companies 🌍
