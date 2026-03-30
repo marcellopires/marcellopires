@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/miguelmarcello/
+* 💼 LinkedIn: https://www.linkedin.com/in/marcellopiresbr/
 
 ---
 
